@@ -1,0 +1,37 @@
+header {
+    text-align: center;
+}
+
+img {
+    width: 75%;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+}
+
+body {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(69, 54, 54);
+}
+
+.callout {
+    background-color: rgb(237, 223, 205);
+    color: rgb(69, 54, 54);
+}
+
+nav a,
+header p {
+    font-size: .75em;
+}
+
+a {
+    color: rgb(0, 72, 255);
+}
+
+nav a {
+    text-transform: lowercase;
+    letter-spacing: 1px;
+}
