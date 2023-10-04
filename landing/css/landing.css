@@ -1,0 +1,47 @@
+img {
+    align-items: center;
+}
+
+
+.location {
+    text-align: center;
+}
+
+
+.founder {
+    text-align: center;
+    background-color: rgb(68, 55, 33);
+    color: rgb(219, 205, 188);
+}
+
+main {
+    color: rgb(68, 55, 33);
+    background-color: rgb(219, 205, 188);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: rgb(68, 55, 33);
+    background-color: rgb(219, 205, 188);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.title {
+    text-align: center;
+    font-size: 4em;
+    background-color: rgb(68, 55, 33);
+    color: rgb(219, 205, 188);
+}
+
+.drinks {
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+p{
+    font-size: 1.5em;
+}
