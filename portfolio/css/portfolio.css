@@ -1,0 +1,47 @@
+body {
+    font-family: 'Philosopher', sans-serif;
+    background-image: linear-gradient(to right, #FFFBF6 0%, #FFFBF6 50%, white 50%, white 100%)
+}
+img {
+    width: 300px;
+    height: auto;
+}
+
+.callout {
+    font-family: 'Mulish', sans-serif;
+    color: #463C3C;
+   
+}
+
+.name {
+    position: absolute;
+    bottom: 0;
+    font-size: 5em;
+    color: #1D1C1C;
+}
+
+.box {
+    width: 500px;
+    height: 300px;
+    border: 1px solid #95A286;
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    bottom: 0;
+    color: #95A286;
+}
+
+.boxy {
+    width: 100px;
+    height: 300px;
+    border: 1px solid #95A286;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    color: #1D1C1C;
+    font-size: 2em;
+    text-decoration: none;
+}
+
