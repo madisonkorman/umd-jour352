@@ -1,24 +1,29 @@
 body {
     font-family: 'Philosopher', sans-serif;
-    background-image: linear-gradient(to right, #FFFBF6 0%, #FFFBF6 50%, white 50%, white 100%)
+    /* background-image: linear-gradient(to right, #FFFBF6 0%, #FFFBF6 50%, white 50%, white 100%)*/
 }
-img {
+
+/*img {
     width: 300px;
     height: auto;
-}
+}*/
 
 .callout {
     font-family: 'Mulish', sans-serif;
     color: #463C3C;
-   
+
 }
 
 .name {
+    font-size: 5em;
+}
+
+/*.name {
     position: absolute;
     bottom: 0;
     font-size: 5em;
     color: #1D1C1C;
-}
+}*/
 
 .box {
     width: 500px;
@@ -43,5 +48,48 @@ a {
     color: #1D1C1C;
     font-size: 2em;
     text-decoration: none;
+
 }
 
+nav {
+    word-spacing: 2em;
+}
+
+.home-photo img {
+    margin: 0 auto;
+    display: block;
+}
+
+.resume {
+    font-size: 4em;
+    text-align: center;
+}
+
+.education {
+    font-size: 1.3em;
+}
+
+.page-two {
+    color: #1D1C1C;
+
+
+}
+
+.row {
+    font-family: 'Mulish', sans-serif;
+}
+
+.work {
+    font-size: 1.3em;
+}
+
+h2 {
+    font-family: 'Mulish', sans-serif;
+
+}
+.links{
+    font-family: 'Mulish', sans-serif;
+    font-size: .6em;
+
+ 
+}
