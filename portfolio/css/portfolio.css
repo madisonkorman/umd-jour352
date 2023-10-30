@@ -1,6 +1,6 @@
 body {
     font-family: 'Philosopher', sans-serif;
-    /* background-image: linear-gradient(to right, #FFFBF6 0%, #FFFBF6 50%, white 50%, white 100%)*/
+    background-image: linear-gradient(to right, #FFFBF6 0%, #FFFBF6 50%, white 50%, white 100%)
 }
 
 /*img {
@@ -45,7 +45,7 @@ body {
 }
 
 a {
-    color: #1D1C1C;
+    color: #463C3C;
     font-size: 2em;
     text-decoration: none;
 
@@ -63,6 +63,7 @@ nav {
 .resume {
     font-size: 4em;
     text-align: center;
+    color: #1D1C1C;
 }
 
 .education {
@@ -91,6 +92,6 @@ h2 {
 .links {
     font-family: 'Mulish', sans-serif;
     font-size: .6em;
-
+    color: #463C3C;
 
 }
