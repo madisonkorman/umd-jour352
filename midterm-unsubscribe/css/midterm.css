@@ -1,0 +1,58 @@
+.header{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+.start{
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+    font-family: 'Inconsolata', monospace;
+}
+h1{
+    font-family: 'Inconsolata', monospace;
+    font-size: 4em;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.byline{
+    font-size: .85em;
+    letter-spacing: 1px;
+}
+.pad{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.main{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10%;
+}
+.bresult{
+    padding-top: 20%;
+}
+h2{
+    font-size: 1.75em;
+    padding-bottom: 5%;
+    font-family: 'Inconsolata', monospace;
+}
+.results{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.row{
+    padding-top: 50%;
+}
+.blockquote{
+    padding-top: 20%;
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
+.this{
+    padding-top: 10%;
+}
+.space{
+    padding-top: 10%;
+}
