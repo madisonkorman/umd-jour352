@@ -1,0 +1,42 @@
+p {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    font-size: 2em;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.pad {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #EAF7ED;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+
+header {
+    min-width: 100%;
+    text-align: center;
+}
+
+.row {
+    background-color: #EAF7ED;
+}
+
+.caption {
+    font-style: italic;
+    font-size: .9em;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+
+    padding-bottom: 5%;
+}
